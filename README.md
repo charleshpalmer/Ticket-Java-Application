@@ -6,4 +6,4 @@ This application utalized the MVC convention and allows the user to book tickets
 
 # TECHNOLOGIES USED
 
-Java.
+Java, Apache Netbeans IDE.
